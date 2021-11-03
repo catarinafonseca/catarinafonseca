@@ -4,11 +4,11 @@
 - I have experience with HTML5, CSS3, JavaScript, Vue.JS, Node.JS, Bootstrap 4, MongoDB, MySQL, Sequelize and Python
  ##
 
-<div>
+<!-- <div>
   <a href="https://github.com/catarinafonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catarinafonseca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinafonseca&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
   
   ##
   
