@@ -9,8 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catarinafonseca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinafonseca&layout=compact&langs_count=7&theme=radical"/>
 </div> -->
-  
-  ##
+
   
 ##### Frameworks and tools that I use
 <div>
